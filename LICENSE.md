@@ -1,26 +1,37 @@
-# MIT License
+# European Union Public License v1.2 (EUPL-1.2)
 
 Copyright (c) 2023 Your Name or Organization
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Licensed under the EUPL, Version 1.2 or - as soon as they will be approved by the European Commission - subsequent versions of the EUPL (the "License").
+You may not use this work except in compliance with the License.
+You may obtain a copy of the License at:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" basis, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and limitations under the License.
 
 ## Application to Contributions
 
-All contributions to this project will be released under the MIT License.
+All contributions to this project will be released under the EUPL License.
 By contributing to this project, you agree to have your contributions licensed under the same terms.
+
+---
+
+# Europese Unie Publieke Licentie v1.2 (EUPL-1.2)
+
+Copyright (c) 2023 Uw Naam of Organisatie
+
+Gelicentieerd onder de EUPL, versie 1.2 of - zodra deze worden goedgekeurd door de Europese Commissie - latere versies van de EUPL (de "Licentie").
+U mag dit werk uitsluitend gebruiken in overeenstemming met de Licentie.
+U kunt een kopie van de Licentie verkrijgen op:
+
+https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12
+
+Tenzij dit op grond van toepasselijk recht vereist is of schriftelijk is overeengekomen, wordt software krachtens deze licentie verstrekt "ZOALS ZE IS", ZONDER ENIGE GARANTIES OF VOORWAARDEN, expliciet of impliciet.
+Zie de Licentie voor specifieke bepalingen omtrent toestemmingen en beperkingen op grond van de Licentie.
+
+## Toepassing op Bijdragen
+
+Alle bijdragen aan dit project worden uitgebracht onder de EUPL-licentie.
+Door bij te dragen aan dit project, stemt u ermee in dat uw bijdragen onder dezelfde voorwaarden worden gelicentieerd.
