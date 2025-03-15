@@ -16,7 +16,7 @@ This is a starter template for open source projects. It provides a foundation wi
 - [x] [CHANGELOG.md](CHANGELOG.md)
 - [x] [CODEOWNERS](.github/CODEOWNERS)
 - [x] [Issue templates](.github/ISSUE_TEMPLATE)
-- [x] [Pull request templates](.github/pull_request_template.md)
+- [x] [Pull request templates](docs/pull_request_template.md)
 
 ## Documentation
 - [x] docs/code-style.md
