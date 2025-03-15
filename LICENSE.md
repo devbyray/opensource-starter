@@ -285,6 +285,7 @@ Code from exclusive appropriation.
 
 All other changes or additions to this Appendix require the production of a new
 EUPL version.
+
 ---
 
 # OPENBARE LICENTIE VAN DE EUROPESE UNIE v. 1.2. 
